@@ -1,4 +1,4 @@
-# Time‑Use Survey Finland
+# Time Use Survey - Finland
 
 The project analyses the *Time‑Use Survey* data from Statistics Finland to understand how Finnish residents allocate their time to work, sleep, reading, dining out and visiting libraries.  The work includes data preparation, exploratory analysis, clustering, principal component analysis (PCA) and hypothesis testing.
 
